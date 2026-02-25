@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\bin\Debug\Siparisekrani.exe.config
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\bin\Debug\Siparisekrani.exe
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\bin\Debug\Siparisekrani.pdb
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.Form1.resources
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.exe
+C:\Users\Lenovo\Desktop\Siparisekrani\Siparisekrani\obj\Debug\Siparisekrani.pdb
