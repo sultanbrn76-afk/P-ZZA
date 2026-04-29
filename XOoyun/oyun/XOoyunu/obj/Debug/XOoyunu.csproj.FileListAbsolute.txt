@@ -1,0 +1,10 @@
+C:\Users\PC00\source\repos\oyun\XOoyunu\bin\Debug\XOoyunu.exe.config
+C:\Users\PC00\source\repos\oyun\XOoyunu\bin\Debug\XOoyunu.exe
+C:\Users\PC00\source\repos\oyun\XOoyunu\bin\Debug\XOoyunu.pdb
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.csproj.AssemblyReference.cache
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.Frmoyunekrani.resources
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.Properties.Resources.resources
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.csproj.GenerateResource.cache
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.csproj.CoreCompileInputs.cache
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.exe
+C:\Users\PC00\source\repos\oyun\XOoyunu\obj\Debug\XOoyunu.pdb
